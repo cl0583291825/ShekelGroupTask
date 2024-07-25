@@ -875,6 +875,23 @@
         <member name="T:Northwind.Application">
             <summary>Main Program(P#1)</summary>
         </member>
+        <member name="F:Northwind.Views.Controls.Test.Views.TestView.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Northwind.Views.Controls.Test.Views.TestView.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Northwind.Views.Controls.Test.Views.TestView.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
         <member name="T:Northwind.Views.Controls.OK">
             <summary>OK(M#6)</summary>
         </member>

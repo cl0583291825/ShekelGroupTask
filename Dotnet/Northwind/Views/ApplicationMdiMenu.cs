@@ -1,5 +1,6 @@
 ﻿using ENV.UI.Menus;
 using Firefly.Box;
+using Northwind.Views.Controls.Test;
 namespace Northwind.Views
 {
     public class ApplicationMdiMenu : MenuStripBase 
@@ -92,6 +93,7 @@ namespace Northwind.Views
                     , new RaiseCommand("&About ", ENV.Commands.About)
                 }
                 #endregion
+                , new MenuEntry("Test", () => new Test().Run()) { CloseActiveControllers = true }
             );
         }
     }

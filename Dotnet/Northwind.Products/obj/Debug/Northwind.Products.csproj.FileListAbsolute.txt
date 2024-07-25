@@ -17,3 +17,10 @@ C:\DotNetTest\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.csprojAssem
 C:\DotNetTest\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.csproj.CopyComplete
 C:\DotNetTest\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.dll
 C:\DotNetTest\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\bin\Northwind.Products.dll
+C:\Shekel - Task\ShekelTask\Dotnet\bin\Northwind.Products.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.csproj.AssemblyReference.cache
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.csproj.CoreCompileInputs.cache
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind.Products\obj\Debug\Northwin.4768534C.Up2Date
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.dll
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind.Products\obj\Debug\Northwind.Products.pdb

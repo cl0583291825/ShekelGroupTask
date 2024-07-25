@@ -860,6 +860,17 @@ namespace ENV.UI
             return base.GetGridPainter();
         }
 
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // Grid
+            // 
+            this.Location = new System.Drawing.Point(0, 0);
+            this.ResumeLayout(false);
+
+        }
+
         public class ButtonsGridScrollBar : Firefly.Box.UI.Advanced.GridScrollBarBase
         {
             IGridScrollBarScrollingHandler _scrollingHandler;

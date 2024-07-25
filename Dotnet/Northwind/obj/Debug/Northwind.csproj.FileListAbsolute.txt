@@ -26,3 +26,13 @@ d:\northwindTraining\CustomerMigration\Dotnet\Northwind\obj\Debug\Northwind.pdb
 \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Shekel Test\Dotnet\Northwind\obj\Debug\Northwind.csProj.CopyComplete
 \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Shekel Test\Dotnet\Northwind\obj\Debug\Northwind.exe
 \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Shekel Test\Dotnet\Northwind\obj\Debug\Northwind.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.csProj.AssemblyReference.cache
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.Views.ApplicationMdi.resources
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.csProj.GenerateResource.cache
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.csProj.CoreCompileInputs.cache
+C:\Shekel - Task\ShekelTask\Dotnet\bin\Northwind.ini
+C:\Shekel - Task\ShekelTask\Dotnet\bin\Northwind.exe
+C:\Shekel - Task\ShekelTask\Dotnet\bin\Northwind.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.csproj.Up2Date
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.exe
+C:\Shekel - Task\ShekelTask\Dotnet\Northwind\obj\Debug\Northwind.pdb

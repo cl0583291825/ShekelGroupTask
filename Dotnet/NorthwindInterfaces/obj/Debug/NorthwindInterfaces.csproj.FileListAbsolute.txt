@@ -6,3 +6,11 @@ d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\Nort
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CopyComplete
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csProj.AssemblyReference.cache
+C:\Shekel - Task\ShekelTask\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csProj.CoreCompileInputs.cache
+C:\Shekel - Task\ShekelTask\Dotnet\bin\NorthwindInterfaces.xml
+C:\Shekel - Task\ShekelTask\Dotnet\bin\NorthwindInterfaces.dll
+C:\Shekel - Task\ShekelTask\Dotnet\bin\NorthwindInterfaces.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
+C:\Shekel - Task\ShekelTask\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
+C:\Shekel - Task\ShekelTask\Dotnet\NorthwindInterfaces\obj\Debug\Northwin.F33894AC.Up2Date
