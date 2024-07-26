@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\views\\controls\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\views\\controls\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\views\\controls\\test\\views\\test.view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\views\\controls\\test\\views\\test.view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwind\\views\\applicationmdimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|solutionrelative:northwind\\views\\applicationmdimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\views\\controls\\test\\views\\test.view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\views\\controls\\test\\views\\test.view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\views\\controls\\test\\views\\test.view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\views\\controls\\test\\views\\test.view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|c:\\shekel - task\\shekeltask\\dotnet\\northwindbase\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind.Products\\ShowProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Northwind.Products\\ShowProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\79c978eb822eab6f298cd89b834c2f525f3fc1bf8d66d6f98fe8616c27fd3f05\\ProdID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\data\\dataprovider\\sqlreplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\data\\dataprovider\\sqlreplacemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\data\\dataprovider\\views\\sqlreplacemanager.view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\data\\dataprovider\\views\\sqlreplacemanager.view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058713C7-B90E-48F9-AB6D-8077CAD748A3}|NorthwindInterfaces\\NorthwindInterfaces.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindinterfaces\\products\\ishowproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058713C7-B90E-48F9-AB6D-8077CAD748A3}|NorthwindInterfaces\\NorthwindInterfaces.csProj|solutionrelative:northwindinterfaces\\products\\ishowproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\data\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\data\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwind\\applicationcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|solutionrelative:northwind\\applicationcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\ui\\formbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\ui\\formbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\shared\\datasources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\shared\\datasources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\types\\prodid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\types\\prodid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\ui\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\ui\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\ui\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\ui\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\views\\controls\\close.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\views\\controls\\close.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|solutionrelative:northwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\ui\\aboutfirefly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\ui\\aboutfirefly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\data\\dataprovider\\sqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\data\\dataprovider\\sqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\abstractuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\abstractuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\models\\order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\models\\order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058713C7-B90E-48F9-AB6D-8077CAD748A3}|NorthwindInterfaces\\NorthwindInterfaces.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindinterfaces\\orders\\ishoworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058713C7-B90E-48F9-AB6D-8077CAD748A3}|NorthwindInterfaces\\NorthwindInterfaces.csProj|solutionrelative:northwindinterfaces\\orders\\ishoworders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058713C7-B90E-48F9-AB6D-8077CAD748A3}|NorthwindInterfaces\\NorthwindInterfaces.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindinterfaces\\customers\\ishowcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058713C7-B90E-48F9-AB6D-8077CAD748A3}|NorthwindInterfaces\\NorthwindInterfaces.csProj|solutionrelative:northwindinterfaces\\customers\\ishowcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\ui\\showprogressinnewthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\ui\\showprogressinnewthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwind\\applicationprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|solutionrelative:northwind\\applicationprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\flowuicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\flowuicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\views\\defaultcontextmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\views\\defaultcontextmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwindbase\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFFD5E-BA1C-40C8-8C90-B215B8247641}|NorthwindBase\\NorthwindBase.csProj|solutionrelative:northwindbase\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\env\\data\\dataprovider\\sqlreplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF944C-3DC6-4D5A-8093-B0F744C5310E}|ENV\\ENV.csProj|solutionrelative:env\\data\\dataprovider\\sqlreplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\2e66fa3bb05ae90b5c966aceb92be97026bf5e1affd2e48bec4f530e6e360c0e\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|C:\\Shekel - Task\\ShekelTask\\Dotnet\\northwind\\northwind.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BDC188F5-4BC3-4472-A238-C093CFDCD6CC}|Northwind\\Northwind.csProj|solutionrelative:northwind\\northwind.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\2e66fa3bb05ae90b5c966aceb92be97026bf5e1affd2e48bec4f530e6e360c0e\\Products.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\2e66fa3bb05ae90b5c966aceb92be97026bf5e1affd2e48bec4f530e6e360c0e\\Products.cs",
+              "ToolTip": "C:\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\2e66fa3bb05ae90b5c966aceb92be97026bf5e1affd2e48bec4f530e6e360c0e\\Products.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\2e66fa3bb05ae90b5c966aceb92be97026bf5e1affd2e48bec4f530e6e360c0e\\Products.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:21:01.147Z",
+              "IsPinned": true,
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdID.cs",
+              "DocumentMoniker": "C:\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\79c978eb822eab6f298cd89b834c2f525f3fc1bf8d66d6f98fe8616c27fd3f05\\ProdID.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\79c978eb822eab6f298cd89b834c2f525f3fc1bf8d66d6f98fe8616c27fd3f05\\ProdID.cs",
+              "ToolTip": "C:\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\79c978eb822eab6f298cd89b834c2f525f3fc1bf8d66d6f98fe8616c27fd3f05\\ProdID.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\adminx\\AppData\\Local\\Temp\\.vsdbgsrc\\79c978eb822eab6f298cd89b834c2f525f3fc1bf8d66d6f98fe8616c27fd3f05\\ProdID.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vw4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:15:09.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShowProducts.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindInterfaces\\Products\\IShowProducts.cs",
+              "RelativeDocumentMoniker": "NorthwindInterfaces\\Products\\IShowProducts.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindInterfaces\\Products\\IShowProducts.cs",
+              "RelativeToolTip": "NorthwindInterfaces\\Products\\IShowProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:51:21.322Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Northwind.ini",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\Northwind.ini",
+              "RelativeDocumentMoniker": "Northwind\\Northwind.ini",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\Northwind.ini",
+              "RelativeToolTip": "Northwind\\Northwind.ini",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAALMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-07-24T13:23:41.957Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlReplaceManager.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\SqlReplaceManager.cs",
+              "RelativeDocumentMoniker": "ENV\\Data\\DataProvider\\SqlReplaceManager.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\SqlReplaceManager.cs",
+              "RelativeToolTip": "ENV\\Data\\DataProvider\\SqlReplaceManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:25:32.676Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SQLReplace.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\SQLReplace.cs",
+              "RelativeDocumentMoniker": "ENV\\Data\\DataProvider\\SQLReplace.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\SQLReplace.cs",
+              "RelativeToolTip": "ENV\\Data\\DataProvider\\SQLReplace.cs",
+              "ViewState": "AQIAADMBAAAAAAAAAAAYwDoBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:26:37.931Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\Entity.cs",
+              "RelativeDocumentMoniker": "ENV\\Data\\Entity.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\Entity.cs",
+              "RelativeToolTip": "ENV\\Data\\Entity.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:27:35.935Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataSources.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Shared\\DataSources.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Shared\\DataSources.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Shared\\DataSources.cs",
+              "RelativeToolTip": "NorthwindBase\\Shared\\DataSources.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:55:21.912Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationPrograms.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\ApplicationPrograms.cs",
+              "RelativeDocumentMoniker": "Northwind\\ApplicationPrograms.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\ApplicationPrograms.cs",
+              "RelativeToolTip": "Northwind\\ApplicationPrograms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:14:28.028Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\MenuManager.cs",
+              "RelativeDocumentMoniker": "ENV\\MenuManager.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\MenuManager.cs",
+              "RelativeToolTip": "ENV\\MenuManager.cs",
+              "ViewState": "AQIAAJMFAAAAAAAAAAArwJsFAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:44:41.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationMdiMenu.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\Views\\ApplicationMdiMenu.cs",
+              "RelativeDocumentMoniker": "Northwind\\Views\\ApplicationMdiMenu.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\Views\\ApplicationMdiMenu.cs",
+              "RelativeToolTip": "Northwind\\Views\\ApplicationMdiMenu.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:47:47.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlReplaceManager.View.cs [Design]",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\Views\\SqlReplaceManager.View.cs",
+              "RelativeDocumentMoniker": "ENV\\Data\\DataProvider\\Views\\SqlReplaceManager.View.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\Views\\SqlReplaceManager.View.cs [Design]",
+              "RelativeToolTip": "ENV\\Data\\DataProvider\\Views\\SqlReplaceManager.View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:39:12.51Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutFirefly.cs [Design]",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\AboutFirefly.cs",
+              "RelativeDocumentMoniker": "ENV\\UI\\AboutFirefly.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\AboutFirefly.cs [Design]",
+              "RelativeToolTip": "ENV\\UI\\AboutFirefly.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:42:52.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Test.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Views\\Controls\\Test\\Test.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Test.cs",
+              "RelativeToolTip": "NorthwindBase\\Views\\Controls\\Test\\Test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:37:48.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.View.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs",
+              "RelativeToolTip": "NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:47:07.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.View.Designer.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.Designer.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.Designer.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.Designer.cs",
+              "RelativeToolTip": "NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.Designer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwGYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:47:32.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.View.cs [Design]",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs [Design]",
+              "RelativeToolTip": "NorthwindBase\\Views\\Controls\\Test\\Views\\Test.View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:47:10.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Models\\Products.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Products.cs",
+              "RelativeToolTip": "NorthwindBase\\Models\\Products.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:28:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowProducts.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind.Products\\ShowProducts.cs",
+              "RelativeDocumentMoniker": "Northwind.Products\\ShowProducts.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind.Products\\ShowProducts.cs",
+              "RelativeToolTip": "Northwind.Products\\ShowProducts.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:30:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBuilder.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\FormBuilder.cs",
+              "RelativeDocumentMoniker": "ENV\\UI\\FormBuilder.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\FormBuilder.cs",
+              "RelativeToolTip": "ENV\\UI\\FormBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:42:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Grid.cs [Design]",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\Grid.cs",
+              "RelativeDocumentMoniker": "ENV\\UI\\Grid.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\Grid.cs [Design]",
+              "RelativeToolTip": "ENV\\UI\\Grid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:58:26.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Close.cs [Design]",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Close.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Views\\Controls\\Close.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\Controls\\Close.cs [Design]",
+              "RelativeToolTip": "NorthwindBase\\Views\\Controls\\Close.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:01:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Models\\Categories.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Categories.cs",
+              "RelativeToolTip": "NorthwindBase\\Models\\Categories.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:27:59.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationCore.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\ApplicationCore.cs",
+              "RelativeDocumentMoniker": "Northwind\\ApplicationCore.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\ApplicationCore.cs",
+              "RelativeToolTip": "Northwind\\ApplicationCore.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADgvyQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:19:52.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\Grid.cs",
+              "RelativeDocumentMoniker": "ENV\\UI\\Grid.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\Grid.cs",
+              "RelativeToolTip": "ENV\\UI\\Grid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:30:33.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind\\Program.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\Northwind\\Program.cs",
+              "RelativeToolTip": "Northwind\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:33:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdID.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Types\\ProdID.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Types\\ProdID.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Types\\ProdID.cs",
+              "RelativeToolTip": "NorthwindBase\\Types\\ProdID.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:51:43.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AbstractUIController.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\AbstractUIController.cs",
+              "RelativeDocumentMoniker": "ENV\\AbstractUIController.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\AbstractUIController.cs",
+              "RelativeToolTip": "ENV\\AbstractUIController.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAiwDkBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:12:11.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Models\\Orders.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Orders.cs",
+              "RelativeToolTip": "NorthwindBase\\Models\\Orders.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvyMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:07:57.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShowProgressInNewThread.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\ShowProgressInNewThread.cs",
+              "RelativeDocumentMoniker": "ENV\\UI\\ShowProgressInNewThread.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\UI\\ShowProgressInNewThread.cs",
+              "RelativeToolTip": "ENV\\UI\\ShowProgressInNewThread.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:55:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SQLClient.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\SQLClient.cs",
+              "RelativeDocumentMoniker": "ENV\\Data\\DataProvider\\SQLClient.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\ENV\\Data\\DataProvider\\SQLClient.cs",
+              "RelativeToolTip": "ENV\\Data\\DataProvider\\SQLClient.cs",
+              "ViewState": "AQIAAJEBAAAAAAAAAAAIwJgBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:12:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IShowOrders.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindInterfaces\\Orders\\IShowOrders.cs",
+              "RelativeDocumentMoniker": "NorthwindInterfaces\\Orders\\IShowOrders.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindInterfaces\\Orders\\IShowOrders.cs",
+              "RelativeToolTip": "NorthwindInterfaces\\Orders\\IShowOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:49:49.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IShowCustomers.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindInterfaces\\Customers\\IShowCustomers.cs",
+              "RelativeDocumentMoniker": "NorthwindInterfaces\\Customers\\IShowCustomers.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindInterfaces\\Customers\\IShowCustomers.cs",
+              "RelativeToolTip": "NorthwindInterfaces\\Customers\\IShowCustomers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:49:44.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Application.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Application.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Application.cs",
+              "RelativeToolTip": "NorthwindBase\\Application.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:52:27.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order_Details.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Order_Details.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Models\\Order_Details.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Models\\Order_Details.cs",
+              "RelativeToolTip": "NorthwindBase\\Models\\Order_Details.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwBgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:32:38.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DefaultContextMenu.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\DefaultContextMenu.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\Views\\DefaultContextMenu.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\Views\\DefaultContextMenu.cs",
+              "RelativeToolTip": "NorthwindBase\\Views\\DefaultContextMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:54:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FlowUIControllerBase.cs",
+              "DocumentMoniker": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\FlowUIControllerBase.cs",
+              "RelativeDocumentMoniker": "NorthwindBase\\FlowUIControllerBase.cs",
+              "ToolTip": "C:\\Shekel - Task\\ShekelTask\\Dotnet\\NorthwindBase\\FlowUIControllerBase.cs",
+              "RelativeToolTip": "NorthwindBase\\FlowUIControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:52:03.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
